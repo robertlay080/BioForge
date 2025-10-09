@@ -1,0 +1,13 @@
+{
+  "simulation_id": "FOLD-2025-10-09-001",
+  "protein": "Myosin Fragment A",
+  "steps": 5000,
+  "energy_minima": -231.7,
+  "convergence_time_s": 128.4,
+  "result": "stable_fold",
+  "parameters": {
+    "temperature": 310.15,
+    "solvent": "water",
+    "force_field": "AMBER99SB"
+  }
+}
