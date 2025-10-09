@@ -1,0 +1,3 @@
+timestamp,enzyme,substrate,product,activity_rate,temp_celsius
+2025-10-09T10:00:00Z,LacZ,Lactose,Glucose+Galactose,0.87,37
+2025-10-09T10:05:00Z,LacY,Lactose,Transported,0.65,37
