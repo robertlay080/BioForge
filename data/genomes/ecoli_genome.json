@@ -1,0 +1,13 @@
+{
+  "organism": "E. coli",
+  "genes": [
+    {"id": "lacZ", "sequence": "ATGACCATGATTACGCCAAGCTT"},
+    {"id": "lacY", "sequence": "ATGTCATGTTTGACAGCTTCTG"},
+    {"id": "lacA", "sequence": "ATGGTTGAGGTCAGGTTCTAA"}
+  ],
+  "metadata": {
+    "source": "NCBI RefSeq",
+    "version": "v1.0",
+    "created": "2025-10-09"
+  }
+}
