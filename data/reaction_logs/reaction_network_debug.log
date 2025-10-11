@@ -1,0 +1,15 @@
+[2025-10-09 12:00:01.153] [INFO] ReactionNetwork initialized with 142 nodes and 287 edges
+[2025-10-09 12:00:01.156] [DEBUG] Loading enzyme parameters from /data/genomes/ecoli_genome.json
+[2025-10-09 12:00:01.202] [INFO] Loaded 38 enzymes and 62 substrates
+[2025-10-09 12:00:01.215] [DEBUG] Building adjacency matrix (142x142)
+[2025-10-09 12:00:01.318] [DEBUG] Edge weights normalized (min: 0.001, max: 0.998)
+[2025-10-09 12:00:01.452] [INFO] Reaction solver initialized: Euler Integration, dt=0.01s
+[2025-10-09 12:00:02.005] [DEBUG] Step 10 — total flux: 1.437e-3 mol/s, ΔE = -2.31 kJ/mol
+[2025-10-09 12:00:02.998] [DEBUG] Step 100 — convergence ratio: 0.67
+[2025-10-09 12:00:03.551] [WARN] Unstable oscillation detected in node PFK1 → ATP consumption spike (Δ=0.14)
+[2025-10-09 12:00:04.228] [INFO] Auto-tuning solver precision (Δt → 0.005)
+[2025-10-09 12:00:05.409] [DEBUG] Step 500 — energy deviation < 1e-5, entering steady-state mode
+[2025-10-09 12:00:06.002] [INFO] Reaction equilibrium reached after 522 iterations
+[2025-10-09 12:00:06.003] [DEBUG] Exporting flux matrix to /data/reaction_logs/final_fluxmap_2025-10-09.csv
+[2025-10-09 12:00:06.007] [INFO] Total runtime: 4.85s | Memory peak: 118 MB | CPU: 96%
+[2025-10-09 12:00:06.008] [INFO] Simulation complete. Exit code: 0
