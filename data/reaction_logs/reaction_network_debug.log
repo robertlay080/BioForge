@@ -13,3 +13,4 @@
 [2025-10-09 12:00:06.003] [DEBUG] Exporting flux matrix to /data/reaction_logs/final_fluxmap_2025-10-09.csv
 [2025-10-09 12:00:06.007] [INFO] Total runtime: 4.85s | Memory peak: 118 MB | CPU: 96%
 [2025-10-09 12:00:06.008] [INFO] Simulation complete. Exit code: 0
+
