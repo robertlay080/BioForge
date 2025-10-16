@@ -1,5 +1,3 @@
-
-
 [2025-10-09 12:00:01.153] [INFO] ReactionNetwork initialized with 142 nodes and 287 edges
 [2025-10-09 12:00:01.156] [DEBUG] Loading enzyme parameters from /data/genomes/ecoli_genome.json
 [2025-10-09 12:00:01.202] [INFO] Loaded 38 enzymes and 62 substrates
@@ -15,4 +13,3 @@
 [2025-10-09 12:00:06.003] [DEBUG] Exporting flux matrix to /data/reaction_logs/final_fluxmap_2025-10-09.csv
 [2025-10-09 12:00:06.007] [INFO] Total runtime: 4.85s | Memory peak: 118 MB | CPU: 96%
 [2025-10-09 12:00:06.008] [INFO] Simulation complete. Exit code: 0
-
